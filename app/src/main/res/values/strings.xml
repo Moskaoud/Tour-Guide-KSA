@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tour Guide App KSA</string>
+    <string name="almasjid_alharam">AlMasjid Alharam</string>
+    <string name="almasjid_alnabawi">AlMasjid Alnabawi</string>
+    <string name="mount_arafat">Mount Arafat</string>
+    <string name="others">Others</string>
+    <string name="mh1">Did you know all muslim pray toward this mosque Almasjid Alharam Exactly towards Al Kabaa</string>
+    <string name="mh2">Of course they didn\'t Worship this store</string>
+    <string name="mh3">they Worship Allah who creates all sky , stars, earth and first human being Adam</string>
+    <string name="mn1">This is Almasjid Alnabawi exit in madina</string>
+    <string name="mn2">Mohammad is the messenger of allah for all Mankind and the jinn</string>
+    <string name="mn3">like all prophets and messenger Adam, Ebrahim, Moses, Jesus and all others Mohammad is the last messenger of allah</string>
+    <string name="mn4">Muslims doesn\'t worship Mohammad they follow him like all prophets</string>
+    <string name="mn5">Muslim means that obey allah who created you from nothing and will resurrect you</string>
+    <string name="mn6">after you get resurrected you will go to heaven or hell</string>
+    <string name="mn7">which you will choose?! you can choose here by follow Allah but there cant\'t choose as it is result of your work in your life</string>
+    <string name="m1">This is Mount Arafat</string>
+    <string name="m2">if you stand on this mount in 9 of Dhul Hijjah Hijri calendar Allah will  forgave your sins</string>
+    <string name="m3">If you become a muslim you will also forgave your sins</string>
+    <string name="m4">if you go for hajj you must stand on this mount</string>
+    <string name="o1">This is Al Kabaa</string>
+    <string name="o2">inside Al Masjid Al Haram</string>
+    <string name="o3">First Muslim when they pray toward al Masjid al Aqsa in Palestine thier first Qibla then kabaa</string>
+    <string name="o4">This is Maqam Ibrahim inside Al Masjid Al Haram also as all prophet follow Allah</string>
+
+
+</resources>
